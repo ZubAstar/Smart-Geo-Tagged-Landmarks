@@ -1,0 +1,65 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Md. Zubayer Hasan
+Student ID: 22301407
+Lab Mid
+Date: 8/3/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[Y] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[Y] Claude
+[ ] Cursor
+[Y] Other: ____Antigravity____________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[Y] Learning/understanding concepts
+[Y] Debugging my code
+[ ] Generating code snippets
+[ ] Writing text content
+[Y] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+
+For exam it was hard to understand the concept, so I used chatgpt to breakdown the question and told it to form a pattern which I shall follow to create my folder structures. Then as I started I asked claude to make me a guideline for each dart files. then lastly used antigravity to fix gradle issues but it couldn't 
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: ________________ Section: _________________
+File: _________________ Section: _________________
+File: _________________ Section: _________________
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: _________Zubayer______________
+Date: ____________15/4/2026_______________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
